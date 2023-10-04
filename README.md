@@ -5,10 +5,10 @@
 # Areas of Interest
 
 - 🖥️ UI/UX & Front End Development
-- 📖 EdTech and Publicly Accessible Education
-- 💾 Open Source
 - 🧠 Knowledge Management & Digital Curation
 - 📚 Library Tech
+- 💾 Open Source
+- 📖 EdTech and Publicly Accessible Education
 - 🔬 Research Software
 - 📈 Data Exploration
 
