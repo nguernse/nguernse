@@ -1,6 +1,6 @@
 # About
 
-👋 Hello! I am a self-taught software engineer with a focus on front end development and creating simple UI's and fun UX's.
+👋 Hello! I am a self-taught software engineer with an interest for front end development. I enjoy creating simple UI's and fun UX's.
 
 # Areas of Interest
 
